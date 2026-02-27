@@ -1,0 +1,41 @@
+{
+  "numerical_features": [
+    "Accommodates",
+    "Bathrooms",
+    "Bedrooms",
+    "Beds",
+    "Review Scores Rating",
+    "Number of Reviews",
+    "Availability 365",
+    "Price per Bedroom",
+    "Booking Density",
+    "Review Month",
+    "Cluster"
+  ],
+  "means": {
+    "Accommodates": 3.2985076696132474,
+    "Bathrooms": 1.2202448952429543,
+    "Bedrooms": 1.3356911524938722,
+    "Beds": 1.9050420913698827,
+    "Review Scores Rating": 92.89821264182962,
+    "Number of Reviews": 22.603670101263294,
+    "Availability 365": 173.2569791816861,
+    "Price per Bedroom": 99.48181820202413,
+    "Booking Density": 6.141748551125685,
+    "Review Month": 5.14908330652943,
+    "Cluster": 1.615033107441133
+  },
+  "stds": {
+    "Accommodates": 2.011090437114485,
+    "Bathrooms": 0.5416282636988727,
+    "Bedrooms": 0.874341387211276,
+    "Beds": 1.429293198824363,
+    "Review Scores Rating": 8.550776431138095,
+    "Number of Reviews": 35.793892031675625,
+    "Availability 365": 136.77054684320174,
+    "Price per Bedroom": 107.84028081672514,
+    "Booking Density": 9.863993747843656,
+    "Review Month": 3.1679642974473734,
+    "Cluster": 0.7592056142709742
+  }
+}

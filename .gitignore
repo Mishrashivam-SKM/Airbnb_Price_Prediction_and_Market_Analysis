@@ -1,0 +1,15 @@
+# Large data files
+airbnb_data.csv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

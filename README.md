@@ -1,6 +1,6 @@
 # 🏠 Airbnb Price Prediction & Market Analysis
 
-> **Live Demo:** https://arbnb-priceprediction-marketanalysis.netlify.app
+> **Live Demo:** 
 
 ![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-FF5A5F?style=for-the-badge)
 ![Model](https://img.shields.io/badge/Model-R²%200.8799-00A699?style=for-the-badge)
@@ -181,6 +181,12 @@ Business_Applied_AI/
 | **HTML / CSS / JavaScript** | Deployed web application |
 | **Plotly.js** | Interactive charts in the dashboard |
 | **Netlify** | Static site hosting & global CDN deployment |
+
+---
+
+## 👤 Author
+
+Shivam Mishra
 
 ---
 
