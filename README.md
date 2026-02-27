@@ -182,11 +182,6 @@ Business_Applied_AI/
 | **Plotly.js** | Interactive charts in the dashboard |
 | **Netlify** | Static site hosting & global CDN deployment |
 
----
-
-## 👤 Author
-
-Shivam Mishra
 
 ---
 
