@@ -1,6 +1,6 @@
 # 🏠 Airbnb Price Prediction & Market Analysis
 
-> **Live Demo:** 
+> **Live Demo:** https://arbnb-priceprediction-marketanalysis.netlify.app
 
 ![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-FF5A5F?style=for-the-badge)
 ![Model](https://img.shields.io/badge/Model-R²%200.8799-00A699?style=for-the-badge)
