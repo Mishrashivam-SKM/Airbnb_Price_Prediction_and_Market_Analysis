@@ -184,12 +184,6 @@ Business_Applied_AI/
 
 ---
 
-## 👤 Author
-
-Shivam Mishra
-
----
-
 ## 📜 License
 
 This project is for educational purposes as part of Business Applied AI coursework.
